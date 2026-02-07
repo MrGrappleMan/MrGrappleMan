@@ -1,4 +1,4 @@
-### Hewwo youzer :3
+### Hewwo random stranger :3
 
 # 💻 Tech Stack:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
@@ -18,6 +18,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=MrGrappleMan&icon=3&color=0)](https://visitcount.itsvg.in)
 
-![Inspiration](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
