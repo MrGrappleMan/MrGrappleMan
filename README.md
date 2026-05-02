@@ -1,23 +1,47 @@
-### Hewwo random stranger :3
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=03fcad,00ffff,0084ff&height=200&section=header&text=MrGrappleMan&fontSize=70&fontAlignY=35&animation=twinkling" />
+</div>
 
-# 💻 Tech Stack:
-![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=flat&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=flat&logo=zig&logoColor=white)
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white)
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
+### 👋 Hello random stranger! :3
 
-# 📊 Statistics:
-![](https://github-readme-stats.vercel.app/api?username=MrGrappleMan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=MrGrappleMan&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=MrGrappleMan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-![Trophies](https://github-profile-trophy.vercel.app/?username=MrGrappleMan&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=MrGrappleMan&limit=5&theme=highcontrast&combine_all_yearly_contributions=true)
+Yo! I'm **MrGrappleMan**. I like to dive into the deep end of the tech stack, breaking things in Rust, Zig, and C/C++ so you don't have to. Welcome to my little corner of GitHub!
 
 ---
-[![](https://visitcount.itsvg.in/api?id=MrGrappleMan&icon=3&color=0)](https://visitcount.itsvg.in)
 
-![Quote](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
+### 💻 Tech Stack (the tools of the trade):
+![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+---
+
+### 📊 Some cool stats:
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MrGrappleMan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
+  <img src="https://nirzak-streak-stats.vercel.app/?user=MrGrappleMan&theme=tokyonight&hide_border=false" /><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrGrappleMan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=MrGrappleMan&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
+</p>
+
+### 🔝 Where I've been helping out:
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=MrGrappleMan&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=MrGrappleMan&icon=3&color=0" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
+</p>
+
+<!-- Stay awesome! -->
