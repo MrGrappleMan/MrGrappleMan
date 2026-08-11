@@ -4,19 +4,19 @@
 
 ### 👋 Hello random stranger! :3
 
-Yo! I'm **MrGrappleMan**. I like to dive into the deep end of the tech stack, breaking things in Rust, Zig, and C/C++ so you don't have to. Welcome to my little corner of GitHub!
+
 
 ---
 
-### 💻 Tech Stack (the tools of the trade):
+### 💻 Languages:
 ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
-![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white)
+![Zig](https://img.shields.io/badge/Zig-%23F7A41D.svg?style=for-the-badge&logo=zig&logoColor=white
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 
 ---
 
-### 📊 Some cool stats:
+### 📊 Stats:
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MrGrappleMan&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" /><br/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=MrGrappleMan&theme=tokyonight&hide_border=false" /><br/>
@@ -27,7 +27,7 @@ Yo! I'm **MrGrappleMan**. I like to dive into the deep end of the tech stack, br
   <img src="https://github-profile-trophy.vercel.app/?username=MrGrappleMan&theme=radical&no-frame=false&no-bg=false&margin-w=4" />
 </p>
 
-### 🔝 Where I've been helping out:
+### 🔝 Contributions:
 <p align="center">
   <img src="https://github-contributor-stats.vercel.app/api?username=MrGrappleMan&limit=5&theme=highcontrast&combine_all_yearly_contributions=true" />
 </p>
@@ -43,5 +43,3 @@ Yo! I'm **MrGrappleMan**. I like to dive into the deep end of the tech stack, br
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical" />
 </p>
-
-<!-- Stay awesome! -->
