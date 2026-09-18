@@ -1,10 +1,9 @@
+
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=03fcad,00ffff,0084ff&height=200&section=header&text=MrGrappleMan&fontSize=70&fontAlignY=35&animation=twinkling" />
 </div>
 
-### 👋 Hello random stranger! :3
-
-
+### 👋 Hi there :3
 
 ---
 
