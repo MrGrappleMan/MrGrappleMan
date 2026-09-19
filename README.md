@@ -7,6 +7,8 @@
 
 ### 👋 Hi there :3
 
+I'm a regular dude who makes modern solutions for modern problems, might arise with problems along the way like anyone would. I make projects for what I want and those that help me.
+
 ---
 
 ### 💻 Languages I know
@@ -21,6 +23,9 @@
 - Kernel development
 - DevOps
 - Containerization
-- Systems administration
+- System administration
+- Distributed Compute and networking
+- System optimizations
+- Desktop tuning
 
 ---
