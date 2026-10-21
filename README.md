@@ -1,13 +1,11 @@
 
-## ⚠️ Unable to respond to PRs/Commits till April 2027
-
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=06cf38,00ffff,0671cf&height=200&section=header&text=MrGrappleMan&fontSize=70&fontAlignY=35&animation=twinkling" />
 </div>
 
 ### 👋 Hi there :3
 
-I'm a regular dude who makes modern solutions for modern problems, might arise with problems along the way like anyone would. I make projects for what I want and those that help me.
+Your local ADHD crackhead who makes modern solutions for modern problems for no reason
 
 ---
 
