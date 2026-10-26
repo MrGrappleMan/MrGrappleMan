@@ -12,7 +12,27 @@ Heavy preference for nativeness, atomicity, immutablity, and modern tooling
 Bluefin Dakota
 
 - Modern tooling like systemd-boot, uutils
-- Distro agnostic
-- Significantly reduced legacy bloat and overhead
-- Rolling release GNOME OS
-- Preset AI and Development integrations
+- Significantly reduced legacy bloat like dnf and rpm components
+- Rolling release GNOME OS, though high stability
+- Preset AI, Development, CLI integrations
+
+### Gaming
+
+Bazzite
+
+- Not recommended for casual gamers, Dakota is better
+- Only for dedicated serious competitive gaming machines
+- Seamless controllers and hardware support
+- Suitable for gaming consoles or HTPCs
+- Dedicated Gamescope and Big Picture Mode presence
+
+## Servers
+
+### umbrelOS
+
+- Easy installation of apps and services
+- Rugix based OTA updates and atomic discarding of unintended core system changes
+- Seamless Tailscale access
+- Wifi access backup support
+- Machines in dock for virtualization
+- umbrel.local easy access and static DHCP has reduced requirements
