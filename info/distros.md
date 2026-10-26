@@ -7,6 +7,12 @@ Heavy preference for nativeness, atomicity, immutablity, and modern tooling
 
 - Require atomicity or immutability to be on this list
 
+If there is an app you want to run on a 24/7 headless server
+and they do not provide a headless/pure CLI variant or doesn't run without a desktop,
+contact the developer to make a CLI variant or abandon it entirely.
+Your server does not deserve to run a desktop environment just for that.
+You will reduce component lifespan needlessly.
+
 ### General Workstations
 
 [Bluefin Dakota](https://projectbluefin.io/dakota/)
