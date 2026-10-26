@@ -27,18 +27,33 @@ Bazzite
 - Suitable for gaming consoles or HTPCs
 - Dedicated Gamescope and Big Picture Mode presence
 
-### Experimental, for temporary tinkering
+### Experimental, for tinkerers
 
 AerynOS
 
-- 
+- Fast package manager
+- Optimized for speed
+- Currently has limited packages
+- Atomic, but not immutable
+- Updates can be done without reboots
+
+NixOS
+
+- 1 to 1 reproducibility down to home path as well
+- Immutable nix store, mutable core paths
+- Core system immutability can be achieved by impermanence
+- Best for ricers
+- Steep learning curve
+- Not true immutability, this lets users granularly choose, increasing security risks and uncertainties.
+- Frequent chances of breakages, though rollbacks can be done.
 
 ## Servers
 
 ### umbrelOS
 
 - Easy installation of apps and services
-- Rugix based OTA updates and atomic discarding of unintended core system changes
+- Rugix based OTA updates and atomic
+- Mutable for current session, but unintended core system changes are wiped on reboot
 - Seamless Tailscale access
 - Wifi access backup support
 - Machines in dock for virtualization
@@ -46,12 +61,12 @@ AerynOS
 
 ### ZimaOS
 
-- idk
+- To be decided
 
 ### Proxmox
 
 - Legacy apt based, prone to breakage
-- VM centric
+- VM centric, docker not by default
 - Vast configurations
 - Has addon enterprise software repos
 
@@ -59,4 +74,20 @@ AerynOS
 
 - For large enterprise deployments
 - Multiple machines with deterministic execution
-- Add cockpit or CasaOS UI into the image while building
+- Add cockpit or CasaOS UI into the image while building via GitHub actions
+
+## Installation media creation
+
+### Ventoy
+
+- For multi ISO setups, not requiring flash
+- Even a phone can move a file to it and you can use it
+- Good for a dedicated recovery USB
+- Works by hacky workarounds, which can sometimes conflict with modern images or cause dracut errors
+- Unstable at times, may not map layouts correctly as intended by the image creator
+- Good for live only session type images, though some persistence options may work
+- You can sha256sum individual images
+
+### Traditional flash tools
+
+- Work reliably, reduced need to check
