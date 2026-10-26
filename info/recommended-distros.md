@@ -90,4 +90,8 @@ NixOS
 
 ### Traditional flash tools
 
-- Work reliably, reduced need to check
+- Work reliably most of the time
+- Data verification is tool dependent
+- Lets image makers use strict path mapping to the live loop files
+- eg. Etcher, Fedora Media Writer, Impression and Rufus
+- Rufus supports windows to go, if you want
