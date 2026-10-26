@@ -9,7 +9,7 @@ Heavy preference for nativeness, atomicity, immutablity, and modern tooling
 
 ### General Workstations
 
-Bluefin Dakota
+[Bluefin Dakota](https://projectbluefin.io/dakota/)
 
 - Modern tooling like systemd-boot, uutils
 - Significantly reduced legacy bloat like dnf and rpm components
@@ -20,7 +20,7 @@ Bluefin Dakota
 
 ### Gaming
 
-Bazzite
+[Bazzite](https://bazzite.gg/)
 
 - For casual gamers, Dakota is better
 - Best for dedicated serious competitive gaming PCs
@@ -57,7 +57,7 @@ NixOS
 
 ## Servers
 
-### umbrelOS
+### [umbrelOS](https://umbrel.com/umbrelos)
 
 - Easy installation of apps and services
 - Rugix based OTA updates and atomic
@@ -83,6 +83,10 @@ NixOS
 - For large enterprise deployments
 - Multiple machines with deterministic execution
 - Add cockpit or CasaOS UI into the image while building via GitHub actions
+
+### [Bluefin Server](https://projectbluefin.io/server/)
+
+- To be decided
 
 ## Installation media creation
 
