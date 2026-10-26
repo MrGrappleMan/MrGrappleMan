@@ -5,8 +5,6 @@
 
 ### 👋 Hi there :3
 
-Your local ADHD crackhead who makes modern solutions for modern problems for no reason
-
 ---
 
 ### 💻 Languages I know
