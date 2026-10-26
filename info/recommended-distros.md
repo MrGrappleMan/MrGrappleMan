@@ -15,6 +15,7 @@ Bluefin Dakota
 - Significantly reduced legacy bloat like dnf and rpm components
 - Rolling release GNOME OS, though high stability
 - Preset AI, Development, CLI integrations
+- Smooth delta updates
 
 ### Gaming
 
@@ -25,6 +26,12 @@ Bazzite
 - Seamless controllers and hardware support
 - Suitable for gaming consoles or HTPCs
 - Dedicated Gamescope and Big Picture Mode presence
+
+### Experimental, for temporary tinkering
+
+AerynOS
+
+- 
 
 ## Servers
 
