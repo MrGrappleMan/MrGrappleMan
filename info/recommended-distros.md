@@ -96,7 +96,7 @@ NixOS
 - Good for live only session type images, though some persistence options may work
 - You can sha256sum individual images
 
-### Traditional flash tools
+### Direct flash tools or dd
 
 - Work reliably most of the time
 - Data verification is tool dependent
