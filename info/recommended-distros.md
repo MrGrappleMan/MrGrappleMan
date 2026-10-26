@@ -35,4 +35,21 @@ Bazzite
 - Seamless Tailscale access
 - Wifi access backup support
 - Machines in dock for virtualization
-- umbrel.local easy access and static DHCP has reduced requirements
+- umbrel.local easy access, static DHCP has reduced requirements though still highly recommend
+
+### ZimaOS
+
+- idk
+
+### Proxmox
+
+- Legacy apt based, prone to breakage
+- VM centric
+- Vast configurations
+- Has addon enterprise software repos
+
+### RHEL bootc based custom image
+
+- For large enterprise deployments
+- Multiple machines with deterministic execution
+- Add cockpit or CasaOS UI into the image while building
