@@ -12,6 +12,7 @@ and they do not provide a headless/pure CLI variant or doesn't run without a des
 contact the developer to make a CLI variant or abandon it entirely.
 Your server does not deserve to run a desktop environment just for that.
 You will reduce component lifespan needlessly.
+A server is a server and a desktop is a desktop.
 
 ### General Workstations
 
