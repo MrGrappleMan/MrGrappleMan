@@ -5,7 +5,7 @@ Heavy preference for nativeness, atomicity, immutablity, and modern tooling
 
 ## Desktops
 
-- Require atomic and immutability
+- Require atomicity or immutability to be on this list
 
 ### General Workstations
 
@@ -16,18 +16,26 @@ Bluefin Dakota
 - Rolling release GNOME OS, though high stability
 - Preset AI, Development, CLI integrations
 - Smooth delta updates
+- Homebrew ready
 
 ### Gaming
 
 Bazzite
 
-- Not recommended for casual gamers, Dakota is better
-- Only for dedicated serious competitive gaming machines
+- For casual gamers, Dakota is better
+- Best for dedicated serious competitive gaming PCs
 - Seamless controllers and hardware support
 - Suitable for gaming consoles or HTPCs
 - Dedicated Gamescope and Big Picture Mode presence
 
-### Experimental, for tinkerers
+### Others
+
+VanillaOS
+Flatcar Container Linux
+blendOS
+Nitrux
+
+### Experimental or for tinkerers
 
 AerynOS
 
@@ -44,7 +52,7 @@ NixOS
 - Core system immutability can be achieved by impermanence
 - Best for ricers
 - Steep learning curve
-- Not true immutability, this lets users granularly choose, increasing security risks and uncertainties.
+- Not true immutability, this lets users granularly choose, but increasing security risks and uncertainties if not handled properly.
 - Frequent chances of breakages, though rollbacks can be done.
 
 ## Servers
@@ -57,7 +65,7 @@ NixOS
 - Seamless Tailscale access
 - Wifi access backup support
 - Machines in dock for virtualization
-- umbrel.local easy access, static DHCP has reduced requirements though still highly recommend
+- umbrel.local easy access
 
 ### ZimaOS
 
