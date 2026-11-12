@@ -1,6 +1,8 @@
 # UmbrelOS Community stores
 
-## Awsome umbrel, list
+## Awesome umbrel
+
+Is a large comprehensive list, not a store itself
 
 ```
 https://github.com/smolgrrr/awesome-umbrel
@@ -8,10 +10,11 @@ https://github.com/smolgrrr/awesome-umbrel
 
 ## Big Bear Umbrel
 
-``` https://github.com/bigbeartechworld/big-bear-umbrel
+```
+https://github.com/bigbeartechworld/big-bear-umbrel
 ```
 
-## Denny`s Umbrel
+## Denny's Umbrel
 
 ``` https://github.com/dennysubke/dennys-umbrel-app-store
 ```
