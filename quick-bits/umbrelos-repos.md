@@ -14,12 +14,13 @@ https://github.com/smolgrrr/awesome-umbrel
 https://github.com/bigbeartechworld/big-bear-umbrel
 ```
 
-## Denny's Umbrel
+## Dennys Umbrel
 
-``` https://github.com/dennysubke/dennys-umbrel-app-store
+```
+https://github.com/dennysubke/dennys-umbrel-app-store
 ```
 
-## Brcly's
+## Brclys
 
 ```
 https://github.com/brcly/brclys-store
